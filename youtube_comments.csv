@@ -1,0 +1,115 @@
+Comment
+You either die a hero or live long enough to become the villain...
+I'm ashamed of myself but this is the only way now lol
+"I rarely comment on videos but felt the need to thank you for this tutorial. This is my 10th video on the subject and felt this one helped me understand the creation process best. I work in tech but not a coder but aspiring to do so, i am going to work on this project and hope I can get a gpu after being on the waiting list for 7 months. Keep the content coming!"
+"Thx a lot, I know that this kind of code has become infamous but as not a scalper but someone that really needs a gpu for his system to run well (my current gpu has given me a lot of problems and is a very old gpu) I really appreciate that you make it simpler for people to understand these matters and how to make a bot :3"
+"Videos you probably want to watch:
+ How to create a Python Bot Step By Step 
+ https://youtube.com/playlist?list=PL3OV2Akk7XpBwRE5oTY9yJK5x-RFmJ_g2
+ You are getting errors, most frequently asked questions answered 
+ 
+ Web Scraping Projects 
+ 
+ Python Problems for Beginners 
+ 
+ Code a bot in python to find the latest Nvidia RTX 3060 and Ryzen 5000 
+ 
+ Build with Python an  Price Tracker that sends Whatsapp notifications 
+ 
+ Web scraping with Python, BeautifulSoup, Pandas and Selenium 
+ 
+ How to Web Scrape an HTML Table using Pandas Library in Python 
+ 
+ Putting it all together 
+ "
+Amazing tutorial. The best I've seen on the subject. Thank you very much!
+I scored an Asus Strix 4090 with my own variation of this. I modified this to run very fast in the checkout. I had no issues with bans or anything. I also made it refresh every 3 seconds BUT I only ran it just before the cards launched at 5:59am (cards launched at 6:04am). I understand you probably made it so slow because you don't want to be responsible for getting people banned from Newegg. Even so this was a great starting point! Thanks!
+"I am at the point that I need this just to finally build my first ever PC
+
+Update : i managed to get a 3070 Ti with a discord alert server !"
+"great tutorial, well explained. Appreciate your time and knowledge. Thank you my friend!"
+I don't know anything about coding but I am eager to learn! Your videos are so helpful! Thank you
+This video is awesome!! Thank you for the content!!
+Thank you for this very useful video! I will try adapt this with my future shoes!
+Really great tutorial either way
+Thank you for posting this. This should make it more difficult for a hole scalpers to sell their items.
+You gotta do what you must
+Thank you! Always curious how this worked.
+"So to put it all together, are you looking for a Status = ""Available"" (in your check in stock script) then you could grab the URL and run this auto-checkout script on that URL? Also how are you running these scripts on a timer? Amazing video, just looking to put it all together!"
+Thank you for providing such high quality material! May I ask what is the name of the website you were browsing at around minute 14:36 to get information about select elements?
+"I wanted to try this but do I have to find the product in stock on the site I want to use first? Or can I pick any item on the site and go thru the checkout process and just keep the original product url? I mean if I had to find the product in stock first what would be the point lol. I ask because there is no add to cart options when its not in stock. Another thing is sometimes they randomly raise the price way high, what if that happens and dont want it at an extra $500 lol."
+"Hey guys, I'm making my own bot with selenium and it's turning out great, it's a bit slow tbh but at least if it goes in stock even when i'm away from my pc it will buy it. I haven't actually tested it on buying something but it fills in all the info and clicks everything. I really hope I don't run into captchas and I had the bot running for a few hours and it did not get banned so I think that's a good sign. (I auto refresh the page every second)"
+"What do you do when the button says ""Not avialable right now"" and you want the script to check if its green(or available) and press on it once it turns green(or available or where it redirects you to another site like on the nvidia site for the Founders Edition cards)"
+I just subscribe. I'm new to scalping and bots thank you for your video. I would like to learn more
+"How do you have the script check if the purchase was successful so that it prevents it from buying multiple in the event of attempting to loop something like this until it succeeds? 
+With Newegg I believe once it's in your cart you have time to purchase but some websites allow it to go out of stock during the purchase process and then it errors at the end. So would be nice to check for that sort of error and have a verification once purchase is successful to break a loop of attempted purchase. If that makes sense?"
+Great video! What if I was expecting an item that has not been released yet on newegg or amazon but I know will release on a certain day... Can I setup a script to constantly search the amazon from the morning to the evening for the item to show up and purchase it? Thank you!
+"Miners and Scalpers: ""You dare use my own spell against me, Gamer?!"""
+"Hello @CODEMENTAL ! Nice video! Im just getting into programming. I want to make a bot to apply to a free coding school, but I dont have the access to the button that I need to click until they actually release it (then its too late :( ). Do you have any tips on how I can make a bot that could interact with this ""new button"" in the website?"
+"I love it 
+ got to give it try"
+this isn't Mena if you buy one for personal use. it's fighting fire with fire.
+"I got this error message when trying to run the first 2 lines. On a Mac.
+
+OSError: [Errno 8] Exec format error: 'chromedriver'
+
+Any ideas?"
+"The PC community needs to come together and help each other out.   Image if those who know this programing stuff where to package this in such a way  that the average noob could install an executable file and copy & past info into this script, we could give the scalper bots a run for the money.  We may not all get one, but we would take sales from those who already use this to resell and artificially inflate GPU thru scalping.   If the community can get them as easy as the scalper bots, then it lowers what they can sell for and eventually, the prices may level off where they below.   Its a super long shot and will never happen because helping others is not something that comes easy to many.  Its all about themselves."
+"One question, how can we do the same for the nvidia page if we cannot proceed with buying in that store (because its not available), what modifications would we have to do."
+"The part this is missing is how to check 24/7 and execute when product becomes available without being flagged as a bot from too many refreshes. Also any website that has a ""confirm you are not a bot"" check screws this."
+"Hi, this is a great tutorial. I have zero knowledge about coding and yet I made a bot. I just want to ask, is there any code that will re-run the kerenal automatically if it runs in an error for adding to cart. Its possible that it will get error till the time item is not live so can we have a code to keep it  retrying till it surpasses the add to cart button....Thanks"
+"hey will this buy one every time or will I have to block it after a ""happy run"" 
+and how would one block it after a ""happy run"""
+"when I get to pasting the link and trying to run it, it gives me an error and says ""WebDriverException: Message: chrome not reachable"" how do i fix this?"
+what would be a good way to make it enter a virtual line very fast? there is no bottom it just redirects you when the line opens. (every Thursday) I am wondering because the line is for an MSRP and card and there are so many bots that even if you are sitting there waiting for it to open and get it the exact second the bots will still get it faster
+"Hello,
+I have a question. 
+At 12:55 you said there is another method to do this without xpath? how? 
+Because on that site where i want to use my bot is changing the inputs automatically (e.g '//*[@id=""input_36""]' to '//*[@id=""input_38""]')"
+"best tutorial about this topic. everything explained not copy paste without understanding. The first video after that i think that i actually got the feeling, that this will work
+Love U
+
+Edit: if i try to open the try to run the script, it says this:
+FileNotFoundError                         Traceback (most recent call last)
+~\AnwendPR\Anaconda\install\envs\pc_bot\lib\site-packages\selenium\webdriver\common\ in start(self)
+     71             cmd.extend(self.command_line_args())
+---> 72             self.process = subprocess.Popen(cmd, env=self.env,
+     73                                             close_fds=platform.system() != 'Windows',
+
+~\AnwendPR\Anaconda\install\envs\pc_bot\lib\ in __init__(self, args, bufsize, executable, stdin, stdout, stderr, preexec_fn, close_fds, shell, cwd, env, universal_newlines, startupinfo, creationflags, restore_signals, start_new_session, pass_fds, encoding, errors, text)
+    857 
+--> 858             self._execute_child(args, executable, preexec_fn, close_fds,
+    859                                 pass_fds, cwd, env,
+
+~\AnwendPR\Anaconda\install\envs\pc_bot\lib\ in _execute_child(self, args, executable, preexec_fn, close_fds, pass_fds, cwd, env, startupinfo, creationflags, shell, p2cread, p2cwrite, c2pread, c2pwrite, errread, errwrite, unused_restore_signals, unused_start_new_session)
+   1310             try:
+-> 1311                 hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+   1312                                          # no special security
+
+FileNotFoundError: [WinError 2] Das System kann die angegebene Datei nicht finden
+
+During handling of the above exception, another exception occurred:
+
+WebDriverException                        Traceback (most recent call last)
+<ipython-input-1-3c330f10cff3> in <module>
+      2 import chromedriver_binary
+      3  holen
+----> 4 wd = wd.Chrome()
+      5 wd.implicity_wait(10)
+      6  oeffnen
+
+~\AnwendPR\Anaconda\install\envs\pc_bot\lib\site-packages\selenium\webdriver\chrome\ in __init__(self, executable_path, port, options, service_args, desired_capabilities, service_log_path, chrome_options, keep_alive)
+     71             service_args=service_args,
+     72             log_path=service_log_path)
+---> 73         self.service.start()
+     74 
+     75         try:
+
+~\AnwendPR\Anaconda\install\envs\pc_bot\lib\site-packages\selenium\webdriver\common\ in start(self)
+     79         except OSError as err:
+     80             if err.errno == errno.ENOENT:
+---> 81                 raise WebDriverException(
+     82                     ""'%s' executable needs to be in PATH. %s"" % (
+     83                         os.path.basename(self.path), self.start_error_message)
+
+WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see "
